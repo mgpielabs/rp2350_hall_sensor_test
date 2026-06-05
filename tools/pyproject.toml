@@ -1,0 +1,7 @@
+[project]
+name = "rp2350-hall-sensor-tools"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = [
+    "asciinema>=2.4.0",
+]
